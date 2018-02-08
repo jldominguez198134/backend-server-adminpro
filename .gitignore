@@ -1,0 +1,7 @@
+
+# .vscode
+.vscode/
+
+# Módulos de node
+node_modules/
+
