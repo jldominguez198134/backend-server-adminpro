@@ -5,3 +5,6 @@
 # Módulos de node
 node_modules/
 
+# Módulos de node en Google Sign-in
+google-signin-demo/node_modules/
+
