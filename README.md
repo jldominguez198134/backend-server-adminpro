@@ -6,7 +6,7 @@ Para ejecutarlo, es necesario reconstruir los módulos de node usando el comando
 
 ````
 npm instal
-```
+````
 
 ## Dentro de google-signin-demo
 
